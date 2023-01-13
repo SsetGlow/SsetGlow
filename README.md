@@ -1,6 +1,6 @@
-<picture>
+<p>
 <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsetGlow&show_icons=true&theme=transparent)" />
-</picture>
+</p>
 <!--
 **SsetGlow/SsetGlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
